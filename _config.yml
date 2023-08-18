@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "John Femiani"
   avatar           : "bio-photo.jpg"
-  bio              : "Professor of Computer Science."
+  bio              : "Professor of Computer Science at Miami University in the [Department of Computer Science and Sowtware Engineering](https://miamioh.edu/cec/departments/computer-science-software-engineering/index.html) "
   location         : "Oxford, OH"
-  employer         : "Miami University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BRJQl5cAAAAJ&hl=en"
   email            : "femianjc@miamioh.edu"
