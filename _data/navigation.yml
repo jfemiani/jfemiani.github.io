@@ -9,11 +9,17 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /teaching/   
+
+  - title: "Resources"
+    url: /resources/ 
         
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Blog"
+    url: /blog/
+
   - title: "CV"
     url: /cv/
     
