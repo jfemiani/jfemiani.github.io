@@ -1,5 +1,4 @@
 ---
-layout: publication
 title: "SketchDNN: Joint Continuous-Discrete Diffusion for CAD Sketch Generation"
 collection: publications
 permalink: /publication/2025-07-21-SketchDNN-Joint-Continuous-Discrete-Diffusion-CAD-Sketch-Generation
