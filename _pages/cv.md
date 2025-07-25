@@ -18,10 +18,10 @@ Education
 
 Work Experience
 ======
-* **Armstrong Professor of Computer Science and Graduate Director**  
+* **Armstrong Professor of Computer Science**  
   Department of Computer Science and Software Engineering, Miami University  
-  2024 – Present  
-  * Research and teaching on AI, machine learning, computer vision, remote sensing, computer graphics, and 3D geometry.
+  2024 – 2025  
+  * Endowed position. 
 
 * **Full Professor**  
   Department of Computer Science and Software Engineering, Miami University  
