@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I’m **John C. Femiani**, the **Armstrong Professor of Computer Science** at [Miami University](https://miamioh.edu/profiles/cec/john-femiani.html) in Oxford, OH. My research interests are in **artificial intelligence (AI)**, **machine learning (ML)**,  **computer vision**,**computer graphics**, and **remote sensing** with a focus on using advanced learning models to extract structured, meaningful representations from complex datasets such as images and video.
+I’m **John C. Femiani**, the **Professor of Computer Science** at [Miami University](https://miamioh.edu/profiles/cec/john-femiani.html) in Oxford, OH. My research interests are in **artificial intelligence (AI)**, **machine learning (ML)**,  **computer vision**,**computer graphics**, and **remote sensing** with a focus on using advanced learning models to extract structured, meaningful representations from complex datasets such as images and video.
 
 ---
 
