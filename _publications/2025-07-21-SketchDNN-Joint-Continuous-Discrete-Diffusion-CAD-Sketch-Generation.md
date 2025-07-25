@@ -9,8 +9,19 @@ citation: ' Sathvik Chereddy,  John Femiani, &quot;SketchDNN: Joint Continuous-D
 
 SketchDNN is a generative model for synthesizing CAD sketches that jointly models both continuous parameters and discrete class labels through a unified continuous-discrete diffusion process. The core innovation is Gaussian-Softmax diffusion, where logits perturbed with Gaussian noise are projected onto the probability simplex via a softmax transformation, facilitating blended class modeling for high-fidelity CAD sketch generation.
 
-# Poster
-[ICML 2025 Poster by Sathvik ![ICML 2025 Poster by Sathvik](images/SketchDNN-ICMS2025-Poster-Sathvik.png)](images/SketchDNN%20Poster%20(2).pdf)
+
+[<img src="/images/SketchDNN-ICMS2025-Poster-Sathvik.png" alt="ICML 2025 Poster by Sathvik" width="400"/>](/images/SketchDNN%20Poster%20(2).pdf)
+
+<img src="/images/SketchDNN-ICML2025-Inference-Examples-Process.png" 
+    alt="Examples of the diffusion process-- random primitives are shown on the left, evolving towards realistic 2D CAD drawing exames on the right" 
+    width="400"/>
+
+## Main Points
+- Mixing categorical (e.g. primitive **type**) with continuous (position, shape) information is hard, we present a novel solution.
+- Without care, categories do not evolve at the right speed, preventing realistic diffusion results.
+- We use a novel and **simple** representation that **actually works** to mix categorical and continuous variables
+- We had to use a different *noise sechedule* and a slightly modified *inference process*
+- Contrast this with autoregressive approached -- diffusion works in many passes, allowing it to respect the many symmetries and alignments (tangent features, points that should conincide). 
 
 ## Links
 
