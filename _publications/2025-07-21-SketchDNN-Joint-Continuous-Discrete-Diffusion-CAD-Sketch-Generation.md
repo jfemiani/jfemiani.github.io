@@ -10,12 +10,7 @@ citation: ' Sathvik Chereddy,  John Femiani, &quot;SketchDNN: Joint Continuous-D
 SketchDNN is a generative model for synthesizing CAD sketches that jointly models both continuous parameters and discrete class labels through a unified continuous-discrete diffusion process. The core innovation is Gaussian-Softmax diffusion, where logits perturbed with Gaussian noise are projected onto the probability simplex via a softmax transformation, facilitating blended class modeling for high-fidelity CAD sketch generation.
 
 # Poster
-<object data="images/SketchDNN Poster (2).pdf" type="application/pdf" width="100%" height="600px">
-   <p>Your browser does not support PDFs. Please download the poster <a href="images/SketchDNN Poster (2).pdf">here</a>.</p>
-</object>
-
-# Placeholder for Future Video
-> A section for the video presentation when available.
+[ICML 2025 Poster by Sathvik ![ICML 2025 Poster by Sathvik](images/SketchDNN-ICMS2025-Poster-Sathvik.png)](images/SketchDNN%20Poster%20(2).pdf)
 
 ## Links
 
